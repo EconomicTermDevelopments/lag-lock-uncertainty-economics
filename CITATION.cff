@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+title: "Introducing lag-lock uncertainty: A Computational Framework for Climate Economics"
+authors:
+  - name: "Economic Research Collective"
+version: "1.0.0"
+date-released: "2026-02-17"
+license: MIT
+repository-code: "https://github.com/EconomicTermDevelopments/lag-lock-uncertainty-economics"
+keywords:
+  - economics
+  - lag-lock-uncertainty
+  - climate-economics
+  - computational-framework
+  - emerging-terminology
+abstract: "lag-lock uncertainty is defined here as the compounding uncertainty arising from temporal lags between climate policy actions and observable climate system responses, where committed future warming from past emissions (climate inertia) combines with uncertainty about threshold locations and feedback strengths to create decision-making paralysis and difficulty in attributing outcomes to specific interventions. This paper develops lag-lock uncertainty as a computational framework for climate economics by linking the concept to compounded uncertainty from delayed climate response and policy transmission lags, formalizing long physical and institutional lags combine with threshold uncertainty to weaken policy attribution and timing confidence, and operationalizing lag-lock uncertainty with a transparent index built from channels such as climate inertia, policy response lag, threshold uncertainty, and feedback strength, while also showing how lag-lock uncertainty can support comparative statics, empirical measurement, and policy simulation in reproducible economic research."

@@ -1,0 +1,27 @@
+{
+  "term": "lag-lock uncertainty",
+  "definition": "The compounding uncertainty arising from temporal lags between climate policy actions and observable climate system responses, where committed future warming from past emissions (climate inertia) combines with uncertainty about threshold locations and feedback strengths to create decision-making paralysis and difficulty in attributing outcomes to specific interventions.",
+  "etymology": "Compound construction combining three elements:.",
+  "field": "Climate Economics",
+  "subfields": [
+    "Climate Economics",
+    "Environmental Economics",
+    "Decision Theory under Uncertainty"
+  ],
+  "jel_codes": [
+    "D81",
+    "E24",
+    "J64",
+    "Q54"
+  ],
+  "synonyms": [
+    "climate lag-lock uncertainty"
+  ],
+  "related_concepts": [
+    "Climate inertia",
+    "Deep uncertainty",
+    "Policy timing under uncertainty"
+  ],
+  "first_usage": "2026",
+  "status": "emerging"
+}

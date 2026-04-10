@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "lag-lock uncertainty",
+  "description": "The compounding uncertainty arising from temporal lags between climate policy actions and observable climate system responses, where committed future warming from past emissions (climate inertia) combines with uncertainty about threshold locations and feedback strengths to create decision-making paralysis and difficulty in attributing outcomes to specific interventions.",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Economic Terminology",
+    "datePublished": "2026-02-17"
+  },
+  "termCode": "D81"
+}
